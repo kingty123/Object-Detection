@@ -8,6 +8,8 @@
 - train : 70%, 120장 -> 직접 수집한 12장의 데이터 포함
 - val : 15%, 26장
 - test : 15%, 26장
+- 
+![16_194008_220929_01](https://github.com/user-attachments/assets/ae86a1f6-d0f8-4803-9e9f-ffcd1f3f7d08)
 
 
 ## 2. 과정
@@ -22,3 +24,5 @@
 7) '상용 자율주행차 야간 자동차 전용도로.zip'파일과 '서강대교_저녁.zip' 파일을 'object_detection_on_road.v1i.yolov8.zip' 통합
 8) yaml 파일 생성
 9) YOLOv8로 학습
+
+![val_batch0_pred](https://github.com/user-attachments/assets/333ded4e-bf33-4fcb-b506-3680fcd5f801)
