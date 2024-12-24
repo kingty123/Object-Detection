@@ -8,7 +8,7 @@
 - train : 70%, 120장 -> 직접 수집한 12장의 데이터 포함
 - val : 15%, 26장
 - test : 15%, 26장
-- 
+
 ![16_194008_220929_01](https://github.com/user-attachments/assets/ae86a1f6-d0f8-4803-9e9f-ffcd1f3f7d08)
 
 
